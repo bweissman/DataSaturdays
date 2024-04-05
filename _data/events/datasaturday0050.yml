@@ -27,11 +27,10 @@ sponsors:
    image: https://oh22.is/wp-content/uploads/sites/14/2021/02/oh22_Logo_grau_75.png
    height: 75 
 
-scheduleurl:
+scheduleurl: https://sessionize.com/api/v2/nc6dsl2y/view/GridSmart
 
-speakerlisturl: https://sessionize.com/data-saturday-rheinland-2024/
-
-callforspeakers: true
+speakerlisturl: https://sessionize.com/api/v2/nc6dsl2y/view/SpeakerWall
+callforspeakers: false
 
 organizers:
   - name: Tillmann Eitelberg
